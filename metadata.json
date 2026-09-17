@@ -1,0 +1,6 @@
+{
+  "name": "Ladies First Beauty Salon",
+  "description": "Ladies First Beauty Salon in DIFC, Dubai offers a complete range of beauty services and treatments at Oasis Tower near Financial Center Metro Station.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
